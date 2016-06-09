@@ -20,7 +20,7 @@ background-color: white;
 }
 
 .jumbotron { 
-    background-image:url(/images/db2.jpg); /* Orange */
+    background-image:url(images/db2.jpg); /* Orange */
     color: #ffffff;
   height:1000px;
   background-repeat: no-repeat;
@@ -42,13 +42,13 @@ h2
   /*padding-top: 1em;
   background-color: silver;*/
   color:white;
-   background-image: url(/images/backgrounds27.jpg);
+   background-image: url(images/backgrounds27.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 #location, #gallery, #values
 {
- background-image: url(/images/dark.jpg);
+ background-image: url(images/dark.jpg);
    color:white;
   
 }
